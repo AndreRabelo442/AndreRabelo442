@@ -7,6 +7,9 @@ Systems Analysis and Development student from Brazil 🇧🇷, building my path 
 - 🛠️ Building backend projects to practice what I learn;
 - 🎯 Goal: become a solid full-stack developer.
 
+## 💼 Work
+ERP Support & Implementation Analyst at **Minerion**.
+
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -17,4 +20,4 @@ Systems Analysis and Development student from Brazil 🇧🇷, building my path 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 📫 Contact
-[LinkedIn](<your-linkedin-url>) · [Email](mailto:<your-email>)
+[LinkedIn](www.linkedin.com/in/andré-rabelo-3139a2256) · [Email](mailto:andrerabelo442@gmail.com)
