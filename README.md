@@ -20,4 +20,4 @@ ERP Support & Implementation Analyst at **Minerion**.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 📫 Contact
-[LinkedIn](www.linkedin.com/in/andré-rabelo-3139a2256) · [Email](mailto:andrerabelo442@gmail.com)
+[LinkedIn](<www.linkedin.com/in/andré-rabelo-3139a2256>) · [Email](mailto:andrerabelo442@gmail.com)
